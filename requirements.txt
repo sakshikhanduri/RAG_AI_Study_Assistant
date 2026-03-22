@@ -5,7 +5,7 @@ langchain-community==0.2.16
 langchain-chroma==0.1.4
 langchain-huggingface==0.0.3
 langchain-mistralai==0.1.8
-chromadb==0.5.5
+chromadb==0.5.3
 sentence-transformers==2.7.0
 pypdf==4.2.0
 python-dotenv==1.0.1

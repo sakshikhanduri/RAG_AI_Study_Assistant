@@ -1,0 +1,32 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Vector Database
+chroma_db/
+faiss_index/
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+*.tmp
+*.log
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PDF uploads (optional)
+uploads/

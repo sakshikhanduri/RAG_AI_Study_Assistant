@@ -79,7 +79,7 @@ if uploaded_file is not None:
             embedding=embeddings,
             persist_directory=db_path
         )
-        db.persist()
+        # db.persist()
 
     st.session_state.db = db
     st.success("PDF ready! Ask your questions.")
